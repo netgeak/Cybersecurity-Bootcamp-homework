@@ -1,1 +1,1 @@
-Week 2 GRC Homework
+Week 2 GRC - Governance, Risk, and Compliance Homework
