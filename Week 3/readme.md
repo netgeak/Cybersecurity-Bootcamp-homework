@@ -1,1 +1,1 @@
-TERMINAL AND BASH
+Terminal and Bash
