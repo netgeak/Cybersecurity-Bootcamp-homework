@@ -90,14 +90,14 @@ Save and submit the completed file for your homework submission.
 
 
 ### Bonus
-1. Command to install chkrootkit:
+1. Command to install chkrootkit: sudo apt install chkrootkit
 
-2. Command to see documentation and instructions:
+2. Command to see documentation and instructions: man chkrootkit or chkrootkit -h
 
-3. Command to run expert mode:
+3. Command to run expert mode: sudo chkrootkit -x
 
 4. Provide a report from the chrootkit output on what can be done to harden the system.
-    - Screenshot of end of sample output:
+    - Screenshot of end of sample output: screenshot uploaded
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
