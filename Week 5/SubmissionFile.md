@@ -8,14 +8,14 @@ Save and submit the completed file for your homework submission.
 
 ### Step 1: Create, Extract, Compress, and Manage tar Backup Archives
 
-1. Command to **extract** the `TarDocs.tar` archive to the current directory:
+1. Command to **extract** the `TarDocs.tar` archive to the current directory: tar xvvf TarDocs.tar
 
-2. Command to **create** the `Javaless_Doc.tar` archive from the `TarDocs/` directory, while excluding the `TarDocs/Documents/Java` directory:
+2. Command to **create** the `Javaless_Doc.tar` archive from the `TarDocs/` directory, while excluding the `TarDocs/Documents/Java` directory: tar cvvWf Javaless_Docs.tar --exclude='TarDocs/Documents/Java' TarDocs
 
-3. Command to ensure `Java/` is not in the new `Javaless_Docs.tar` archive:
+3. Command to ensure `Java/` is not in the new `Javaless_Docs.tar` archive: tar tvvf Javaless_Docs.tar | grep Java
 
 **Bonus** 
-- Command to create an incremental archive called `logs_backup_tar.gz` with only changed files to `snapshot.file` for the `/var/log` directory:
+- Command to create an incremental archive called `logs_backup_tar.gz` with only changed files to `snapshot.file` for the `/var/log` directory: tar cvvWf logs_backup_tar.gz --listed-incremental=snapshot.file --level=0 /var/log
 
 #### Critical Analysis Question
 
