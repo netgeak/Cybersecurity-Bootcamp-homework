@@ -47,6 +47,8 @@ crontab -e
     [Your logrotate scheme edits here]
     ```
 3. Command to make the `system.sh` script executable: chmod +x system.sh
+
+### Step 4. Manage Log File Sizes
 1. Run `sudo nano /etc/logrotate.conf` to edit the `logrotate` configuration file. 
 
     Configure a log rotation scheme that backs up authentication messages to the `/var/log/auth.log`.
