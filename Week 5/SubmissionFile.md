@@ -101,8 +101,12 @@ Save and submit the completed file for your homework submission.
 
 6. Command to produce an audit report: sudo aureport -au
 
-7. Create a user with `sudo useradd attacker` and produce an audit report that lists account modifications:
-
+7. Create a user with `sudo useradd attacker` and produce an audit report that lists account modifications: 
+ ```bash 
+ sudo aureport -m
+ 13. 01/29/2022 22:45:57 1000 UbuntuDesktop pts/1 /usr/sbin/useradd attacker yes 2309
+ 14. 01/29/2022 22:45:57 1000 UbuntuDesktop pts/1 /usr/sbin/useradd ? yes 2310
+ ```
 8. Command to use `auditd` to watch `/var/log/cron`: auditctl -w /var/log/cron -k cron
 
 9. Command to verify `auditd` rules: auditctl -l
