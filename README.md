@@ -9,4 +9,6 @@ Week 3 - Homework: A High Stakes Investigation - Complete
 
 Week 4 - Homework: Linux Systems Administration - Complete
 
-Week 5 - Homework: Archiving and Logging Data
+Week 5 - Homework: Archiving and Logging Data - Complete
+
+Week 6 - Homework: Bash Scripting and Programming
