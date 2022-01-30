@@ -91,7 +91,7 @@ Save and submit the completed file for your homework submission.
     ```bash
     -w /etc/shadow -p wa -k shadow 
     -w /etc/passwd -p wa -k passwd 
-    -w /var/log/auth.log -p wa -k auth.log
+    -w /var/log/auth.log -k auth.log
 
     ```
 
