@@ -111,19 +111,19 @@ Save and submit the completed file for your homework submission.
 
 ### Bonus (Research Activity): Perform Various Log Filtering Techniques
 
-1. Command to return `journalctl` messages with priorities from emergency to error:
+1. Command to return `journalctl` messages with priorities from emergency to error: journalctl -p err -b
 
-1. Command to check the disk usage of the system journal unit since the most recent boot:
+1. Command to check the disk usage of the system journal unit since the most recent boot: journalctl --disk-usage 
 
 1. Comand to remove all archived journal files except the most recent two:
 
 
-1. Command to filter all log messages with priority levels between zero and two, and save output to `/home/sysadmin/Priority_High.txt`:
+1. Command to filter all log messages with priority levels between zero and two, and save output to `/home/sysadmin/Priority_High.txt`: journalctl -p 0..2 > /home/sysadmin/Priority_High.txt
 
 1. Command to automate the last command in a daily cronjob. Add the edits made to the crontab file below:
 
     ```bash
-    [Your solution cron edits here]
+    0 0 * * * journalctl -p 0..2 > /home/sysadmin/Priority_High.txt
     ```
 
 ---
