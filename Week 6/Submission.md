@@ -24,14 +24,6 @@ Save and submit the completed file for your homework submission.
 6. Test that `sudo` access works without your password:
 
     ```bash
-    Your bash commands here
-    ```
-
-**Step 2: Smooth Sailing**
-
-1. Edit the `sshd_config` file:
-
-    ```bash
     sudo -l 
     Matching Defaults entries for sysd on scavenger-hunt:
     env_reset, mail_badpass,
@@ -42,28 +34,46 @@ Save and submit the completed file for your homework submission.
 
     ```
 
+**Step 2: Smooth Sailing**
+
+1. Edit the `sshd_config` file:
+
+    ```bash
+    Port 22
+    Port 2222
+
+    ```
+
 **Step 3: Testing Your Configuration Update**
 1. Restart the SSH service:
-    - `Your solution command here`
+    - `systemctl restart sshd`
 
 2. Exit the `root` account:
-    - `Your solution command here`
+    - `exit`
 
 3. SSH to the target machine using your `sysd` account and port `2222`:
-    - `Your solution command here`
+    - `ssh sysd@192.168.6.105 -p 2222`
 
 4. Use `sudo` to switch to the root user:
-    - `Your solution command here`
+    - `sudo su`
 
 **Step 4: Crack All the Passwords**
 
 1. SSH back to the system using your `sysd` account and port `2222`:
 
-    - `Your solution command here`
+    - `ssh sysd@192.168.6.105 -p 2222`
 
 2. Escalate your privileges to the `root` user. Use John to crack the entire `/etc/shadow` file:
 
-    - `Your solution command here`
+    - `computer         (stallman)
+    freedom          (babbage)
+    trustno1         (mitnik)
+    dragon           (lovelace)
+    lakers           (turing)
+    passw0rd         (sysadmin)
+    passw0rd         (sysd)
+    Goodluck!        (student)
+`
 
 ---
 
