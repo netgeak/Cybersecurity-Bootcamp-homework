@@ -7,19 +7,19 @@ Save and submit the completed file for your homework submission.
 **Step 1: Shadow People** 
 
 1. Create a secret user named `sysd`. Make sure this user doesn't have a home folder created:
-    - `Your solution command here`
+    - `useradd --no-create-home sysd`
 
 2. Give your secret user a password: 
-    - `Your solution command here`
+    - `passwd sysd`
 
 3. Give your secret user a system UID < 1000:
-    - `Your solution command here`
+    - `usermod -u 900 -g 900 sysd`
 
 4. Give your secret user the same GID:
-   - `Your solution command here`
+   - `groupmod -g 900 sysd`
 
 5. Give your secret user full `sudo` access without the need for a password:
-   -  `Your solution command here`
+   -  `%sysd ALL=(ALL) NOPASSWD: ALL`
 
 6. Test that `sudo` access works without your password:
 
@@ -32,7 +32,14 @@ Save and submit the completed file for your homework submission.
 1. Edit the `sshd_config` file:
 
     ```bash
-    Your bash commands here
+    sudo -l 
+    Matching Defaults entries for sysd on scavenger-hunt:
+    env_reset, mail_badpass,
+    secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
+
+    User sysd may run the following commands on scavenger-hunt:
+    (ALL) NOPASSWD: ALL
+
     ```
 
 **Step 3: Testing Your Configuration Update**
