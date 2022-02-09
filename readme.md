@@ -11,6 +11,6 @@ Week 4 - Homework: Linux Systems Administration - Complete
 
 Week 5 - Homework: Archiving and Logging Data - Complete
 
-Week 6 - Homework: Bash Scripting and Programming
+Week 6 - Homework: Bash Scripting and Programming - Complete
 
 Week 7 - Homework: Windows Administration and Hardening
