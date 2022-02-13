@@ -1,1 +1,1 @@
-Week 8 Networking Fundamentals
+Week 8 - Networking Fundamentals
