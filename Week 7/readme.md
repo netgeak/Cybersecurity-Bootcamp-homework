@@ -1,1 +1,1 @@
-Week 7 - Homework: Windows Administration and Hardening
+Week 7 - Homework: Windows Administration and Hardening - Complete
