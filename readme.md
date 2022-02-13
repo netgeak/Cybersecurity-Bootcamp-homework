@@ -13,4 +13,6 @@ Week 5 - Homework: Archiving and Logging Data - Complete
 
 Week 6 - Homework: Bash Scripting and Programming - Complete
 
-Week 7 - Homework: Windows Administration and Hardening
+Week 7 - Homework: Windows Administration and Hardening - Complete
+
+Week 8 - Homework: Networking Fundamentals
