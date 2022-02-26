@@ -1,6 +1,7 @@
 
 Phase 1
 •	Commands: `fping -s 167.172.144.11 11.199.141.91 15.199.95.91 15.199.94.91 11.199.158.91`
+
 •	Results: 
 o	5 targets
 o	       1 alive
