@@ -17,7 +17,7 @@ Week 7 - Homework: Windows Administration and Hardening - Complete
 
 Week 8 - Homework: Networking Fundamentals - Complete
 
-Week 9 - Homework: Networking Fundamentals II and CTF Review
+Week 9 - Homework: Networking Fundamentals II and CTF Review - Complete
 
 Week 10 - Homework: Cryptography
 
