@@ -33,7 +33,7 @@
 - Key      : ajy39d2
 
 ### Riddle 6
-- Solution : steghide extract -sf mary-lamb.jpg ; #pass : ABC ;
+- Solution : stegseek --crack mary-lamb.jpg ; #pass : ABC ;
 - Output   : mcclane
 - Key      : 7skahd6
 
