@@ -22,3 +22,5 @@ Week 9 - Homework: Networking Fundamentals II and CTF Review - Complete
 Week 10 - Homework: Cryptography - Complete
 
 Week 11 - Homework: Network Security - Complete
+
+Week 12 - Homework: Cloud Security
