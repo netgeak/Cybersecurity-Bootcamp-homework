@@ -103,7 +103,7 @@ alert tcp $EXTERNAL_NET $HTTP_PORTS -> $HOME_NET any (msg:"ET POLICY PE EXE or D
 
 Snort Rule #3
 
-- Your turn! Write a Snort rule that alerts when traffic is deteceted inbound on port 4444 to the local network on any port. Be sure to include the `msg` in the Rule Option.
+- Your turn! Write a Snort rule that alerts when traffic is detected inbound on port 4444 to the local network on any port. Be sure to include the `msg` in the Rule Option.
 ```bash
 alert tcp $EXTERNAL_NET any -> $HOME_NET 4444 (msg:"gg no re")
 ```
