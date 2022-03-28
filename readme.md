@@ -23,4 +23,6 @@ Week 10 - Homework: Cryptography - Complete
 
 Week 11 - Homework: Network Security - Complete
 
-Week 12 - Homework: Cloud Security
+Week 12 - Homework: Cloud Security - Complete
+
+Week 13 - Homework: ELK Stack Project
