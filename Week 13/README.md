@@ -71,7 +71,7 @@ The playbook implements the following tasks:
 ---
 - name: Configure Elk VM with Docker
   hosts: elk
-  remote_user: RedAdmin
+  remote_user: azureadmin
   become: true
   tasks:
     # Use apt module
