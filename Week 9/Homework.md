@@ -51,7 +51,7 @@ princessleia.site	nameserver = ns2.galaxybackup.com
         - 00:0f:66:e3:e4:01 :: 254.227.228.1
 
 ### Mission 7
-- Screenshots in folder
+- Screenshots
 ![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%209/sw1.png)
 ![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%209/sw2.png)
 ![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%209/sw3.png)
