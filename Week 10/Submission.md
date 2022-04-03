@@ -37,3 +37,12 @@
 - Output   : mcclane
 - Key      : 7skahd6
 
+
+![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2010/riddle1.png)
+![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2010/riddle2.png)
+![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2010/riddle3.png)
+![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2010/riddle4.png)
+![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2010/riddle5.png)
+![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2010/riddle6.png)
+![](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2010/decrypter.png)
+
