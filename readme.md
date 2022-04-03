@@ -25,4 +25,6 @@ Week 11 - Homework: Network Security - Complete
 
 Week 12 - Homework: Cloud Security - Complete
 
-Week 13 - Homework: ELK Stack Project
+Week 13 - Homework: ELK Stack Project - Complete
+
+Week 14 - Homework: Web Development
