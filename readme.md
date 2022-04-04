@@ -28,3 +28,5 @@ Week 12 - Homework: Cloud Security - Complete
 Week 13 - Homework: ELK Stack Project - Complete
 
 Week 14 - Homework: Web Development
+
+Week 15 - Homework: Web Vulnerabilities and Hardening
