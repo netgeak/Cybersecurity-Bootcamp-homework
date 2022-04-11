@@ -109,7 +109,7 @@ username=Barbara&password=password
  - No
 
 20. What kind of data is being sent from this request body?
- - `Content-Type: application/x-www-form-urlencoded`
+ - `Content-Type: application/x-www-form-urlencoded - login information`
 
 **HTTP Response**
 
