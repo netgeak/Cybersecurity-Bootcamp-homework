@@ -72,7 +72,7 @@ Answer the following questions about sessions and cookies:
     Set-Cookie: cart=Bob
     ```
 
-16. Which request header will continue the client's session?   - `Set-Cookie: cart=Bob`
+16. Which request header will continue the client's session?   - `Cookie`
 
     ```HTTP
     GET /cart HTTP/1.1
