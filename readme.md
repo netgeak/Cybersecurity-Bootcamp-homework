@@ -29,4 +29,6 @@ Week 13 - Homework: ELK Stack Project - Complete
 
 Week 14 - Homework: Web Development - Complete
 
-Week 15 - Homework: Web Vulnerabilities and Hardening
+Week 15 - Homework: Web Vulnerabilities and Hardening - Complete
+
+Week 16 - PenTesting 1 
