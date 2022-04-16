@@ -34,7 +34,6 @@ It is always recommended to prevent attacks as early as possible in the processi
 ![3.3](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2015/screenshots/3.3.PNG)
 
 #### Mitigation
-Input validation is performed to ensure only properly formed data is entering the workflow in an information system, preventing malformed data from persisting in the database.
 
 -  Don’t accept any special characters in data entered by the user.
 
