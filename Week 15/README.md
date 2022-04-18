@@ -31,7 +31,7 @@ It is always recommended to prevent attacks as early as possible in the processi
 
 ![3.1](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2015/screenshots/3.1.PNG)
 ![3.2](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2015/screenshots/3.2.PNG)
-![3.3](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2015/screenshots/3.3.PNG)
+![3.3](https://github.com/netgeak/Cybersecurity-Bootcamp-homework/blob/main/Week%2015/screenshots/3.3.png)
 
 #### Mitigation
 
