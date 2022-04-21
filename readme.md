@@ -31,6 +31,6 @@ Week 14 - Homework: Web Development - Complete
 
 Week 15 - Homework: Web Vulnerabilities and Hardening - Complete
 
-Week 16 - Penetration Testing
+Week 16 - Penetration Testing 1 - Complete
 
 Week 17 - Penetration Testing 2
