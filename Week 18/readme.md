@@ -17,7 +17,7 @@
 - How long did it take your systems to recover?
   > Speeds did not begin to return to normal until February 23, 2020 around 22:30 indicating it took the servers about **8 hours to recover.**  
 
-## Sep 2: Are We Vulnerable?
+## Step 2: Are We Vulnerable?
 
 - The search used to find the count of vulnerabilities on server `10.11.36.23` is:
   ```
