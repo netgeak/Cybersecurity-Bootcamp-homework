@@ -1,4 +1,4 @@
-# Week 18 - SEIMS 1
+# Week 18 - SIEMS 1
 
 ## Step 1: The Need for Speed
 
