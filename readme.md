@@ -35,6 +35,6 @@ Week 16 - Homework: Penetration Testing 1 - Complete
 
 Week 17 - Homework: Penetration Testing 2 - Complete
 
-Week 18 - Homework: SIEMs
+Week 18 - Homework: SIEMs - Complete
 
 Week 19 - Homework: SIEMs 2
