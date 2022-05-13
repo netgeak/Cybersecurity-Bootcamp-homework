@@ -39,4 +39,4 @@ Week 18 - Homework: SIEMs - Complete
 
 Week 19 - Homework: SIEMs 2 - Complete
 
-Week 20 - Homework: Project 2
+Week 20 - Homework: Red Vs Blue Project
