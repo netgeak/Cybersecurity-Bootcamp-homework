@@ -39,4 +39,8 @@ Week 18 - Homework: SIEMs - Complete
 
 Week 19 - Homework: SIEMs 2 - Complete
 
-Week 20 - Homework: Red Vs Blue Project
+Week 20 - Homework: Red Vs Blue Project - Complete
+
+Week 21 - Homework: Digital-Forensics
+
+Week 24 - Homework: Final-Project
