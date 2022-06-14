@@ -91,8 +91,6 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
         ![](./images/sql3.png)
         ![](./images/sql4.png)
 
-        - The following command is a nice way to export information out of tables and into a file without the use of any other tools
-        ![](./images/sql5.png)
 
       - Crack password hashes with `john`.
 
