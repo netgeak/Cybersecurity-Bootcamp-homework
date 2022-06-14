@@ -78,7 +78,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       ![](./images/sql_dump_flags.png)
 
 
-    - Looks like we got a 2 for 1 bonus! we have achieved our goal with only use of  `nmap`, `wpscan`, `ssh`, `cat`, `grep` and `mysqldump`. 
+    - Looks like we found 2 flags. Lets see what we can find by looking through the databases. 
     
   - Users via mysql search
 
