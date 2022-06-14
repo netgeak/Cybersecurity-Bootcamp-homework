@@ -43,4 +43,4 @@ Week 20 - Homework: Red Vs Blue Project - Complete
 
 Week 21 - Homework: Digital-Forensics - Complete
 
-Week 24 - Homework: Final-Project
+Week 24 - Homework: Final-Project - Complete!!!
