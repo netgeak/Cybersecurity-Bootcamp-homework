@@ -13,7 +13,7 @@ The following machines were identified on the network:
 
 - Capstone 
 
-  - **Operating System**: Ubuntu 18.04.1 LTS
+  - **Operating System**: Ubuntu
 
   - **Purpose**: Alert Testing / Attack target
 
@@ -21,7 +21,7 @@ The following machines were identified on the network:
 
 - ELK 
 
-  - **Operating System**: Ubuntu 18.04.4 LTS
+  - **Operating System**: Ubuntu
 
   - **Purpose**: Network monitoring
 
@@ -29,7 +29,7 @@ The following machines were identified on the network:
 
 - Kali
 
-  - **Operating System**: Kali 2020.1 
+  - **Operating System**: Kali
 
   - **Purpose**: Attack machine
 
@@ -37,7 +37,7 @@ The following machines were identified on the network:
 
 - Target 1
 
-  - **Operating System**: Debian 3.16.57-2
+  - **Operating System**: Debian
 
   - **Purpose**: Wordpress server
 
